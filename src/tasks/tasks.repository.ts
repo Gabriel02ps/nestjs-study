@@ -1,4 +1,3 @@
-import { Query } from '@nestjs/common';
 import { EntityRepository, Repository } from 'typeorm';
 import { CreateTaskDto } from './dto/creata-task.dto';
 import { GetTasksFilterDto } from './dto/get-tasks-filter.dto';
